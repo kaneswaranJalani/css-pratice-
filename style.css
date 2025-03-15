@@ -1,3 +1,21 @@
 h5 {
     color:chartreuse;
 }
+h3{
+    font-size: large;
+}
+#id1{
+    color:fuchsia;
+}
+.text{
+    color: chocolate;
+}
+a.text{
+    color: gold;
+}
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h5,p{
+    font-size:xx-small;
+}
